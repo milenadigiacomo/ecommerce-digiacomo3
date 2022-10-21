@@ -1,14 +1,14 @@
 import React from 'react'
-import Header from './Header'
-import Main from './Main'
-import Footer from './Footer'
+import NavBar from './components/NavBar'
+import ItemListContainer from './components/ItemListContainer'
+
 
 function App() {
   return (
     <>
-    <Header/>
-    <Main/>
-    <Footer/>
+    <NavBar
+    msj="UNIRVERSO GUADALUPE"
+    />
     </>
   )
 }

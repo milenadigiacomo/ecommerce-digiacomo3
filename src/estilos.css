@@ -4,12 +4,8 @@
     box-sizing: border-box;
 }
 
-/* html { 
-    background-color:red;
-} */
-
 #main-header {
-    background-color: yellow;
+    background-color: pink;
     height: 100px;
     display: flex;
     justify-content: space-between;
